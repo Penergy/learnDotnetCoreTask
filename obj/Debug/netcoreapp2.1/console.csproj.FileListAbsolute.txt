@@ -1,0 +1,11 @@
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.csprojAssemblyReference.cache
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.csproj.CoreCompileInputs.cache
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.AssemblyInfoInputs.cache
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.AssemblyInfo.cs
+D:\workdir\15-dotnetcore\console\bin\Debug\netcoreapp2.1\console.deps.json
+D:\workdir\15-dotnetcore\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.json
+D:\workdir\15-dotnetcore\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.dev.json
+D:\workdir\15-dotnetcore\console\bin\Debug\netcoreapp2.1\console.dll
+D:\workdir\15-dotnetcore\console\bin\Debug\netcoreapp2.1\console.pdb
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.dll
+D:\workdir\15-dotnetcore\console\obj\Debug\netcoreapp2.1\console.pdb
